@@ -9,6 +9,6 @@ class Car {
   }
 }
 
-const myCar = new Car("Ford", 2043);
+const myCar = new Car("Ford", 204);
 document.getElementById("demo").innerHTML =
 "My car is " + myCar.age() + " years old.";
