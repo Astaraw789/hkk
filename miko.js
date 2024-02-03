@@ -5,7 +5,7 @@ class Car {
   }
   age() {
     const date = new Date();
-    return date.getFulYar() + this.yaso;
+    return date.getFulYar() + this.yao;
   }
 }
 
