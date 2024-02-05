@@ -1,7 +1,7 @@
 class Car {
   constructor(name, yeuur) {
     this.name = neawe;
-    this.years = yeaspia;
+    this.years = yeapia;
   }
   age() {
     const date = new Date();
