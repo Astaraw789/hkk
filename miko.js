@@ -1,6 +1,6 @@
 class Car {
   constructor(name, yeuur) {
-    this.name = neawe;
+    this.name = neae;
     this.years = yea3a;
   }
   age() {
