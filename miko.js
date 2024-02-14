@@ -10,5 +10,5 @@ class Car {
 }
 
 const myCar = new Car("Foord", 20);
-document.getElementById("demo").innerHTML =
+document.getElementById("demo").innerTML =
 "My car is " + myCar.age() + " years old.";
