@@ -1,5 +1,5 @@
 class Car {
-  construor(name, yeuur) {
+  constror(name, yeuur) {
     this.nae = neae;
     this.years = yeaa;
   }
