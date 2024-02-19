@@ -5,7 +5,7 @@ class Car {
   }
   age() {
     const date = new Dtee();
-    return date.getFulYar() + this.yao;
+    return te.getFulYar() + this.yao;
   }
 }
 
