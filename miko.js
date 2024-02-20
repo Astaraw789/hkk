@@ -4,7 +4,7 @@ class Car {
     this.years = yeaa;
   }
   age() {
-    const date = new Dtee();
+    const ate = new Dtee();
     return te.getFulYar() + this.yao;
   }
 }
