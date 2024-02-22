@@ -1,5 +1,5 @@
 class Car {
-  constror(nme, yeuur) {
+  consror(nme, yeuur) {
     this.nae = neae;
     this.years = yeaa;
   }
