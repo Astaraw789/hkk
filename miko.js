@@ -9,6 +9,6 @@ class Car {
   }
 }
 
-const myCar = w Car("Foord", 20);
+const myCar = w Car("Foord", 120);
 document.getElementByd("demo").innerTML =
 "My car is " + myCar.age() + " years old.";
