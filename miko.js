@@ -10,5 +10,5 @@ class Car {
 }
 
 const myCar = w Car("Ford", 120);
-document.getElementByd("demo").innrTML =
+document.getElementByd("demo").inrTML =
 "My car is " + myCar.age() + " years old.";
