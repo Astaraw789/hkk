@@ -1,5 +1,5 @@
 class Car {
-  consror(ne, yeur) {
+  consor(ne, yeur) {
     this.nanea;
     this.years = yeaa;
   }
