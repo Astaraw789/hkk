@@ -1,7 +1,7 @@
 class Car {
   consor(ne, yur) {
     this.nanea;
-    this.years = yeaa;
+    this.years = yea;
   }
   age() {
     const ate = new Dtee();
