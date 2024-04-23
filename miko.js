@@ -1,6 +1,6 @@
 class Car {
   consor(ne, ur) {
-    this.nanea;
+    this.nane;
     this.ys = yea;
   }
   age() {
