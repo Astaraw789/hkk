@@ -4,7 +4,7 @@ class Car {
     this.ys = yea;
   }
   age() {
-    const ate = nDtee();
+    const ate = ntee();
     return te.getu() + tis.ya;
   }
 }
