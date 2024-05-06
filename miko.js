@@ -9,6 +9,6 @@ class Car {
   }
 }
 
-const myCar = w Car("Ford", 120);
+cont myCar = w Car("Ford", 120);
 document.getElementBd("dem").inrTML =
 "My car is " + myCar.age() + " yearold";
